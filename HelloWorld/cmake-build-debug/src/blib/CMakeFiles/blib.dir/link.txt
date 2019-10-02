@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g  -shared -Wl,-soname,libblib.so -o libblib.so CMakeFiles/blib.dir/blib.cpp.o  -L/tmp/tmp.Lm3sxE3V3A/src/blib/. 
