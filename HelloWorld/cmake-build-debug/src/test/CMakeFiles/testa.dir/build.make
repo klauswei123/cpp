@@ -60,15 +60,15 @@ include src/test/CMakeFiles/testa.dir/flags.make
 src/test/CMakeFiles/testa.dir/main.cpp.o: src/test/CMakeFiles/testa.dir/flags.make
 src/test/CMakeFiles/testa.dir/main.cpp.o: ../src/test/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.Lm3sxE3V3A/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/test/CMakeFiles/testa.dir/main.cpp.o"
-	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/test && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/testa.dir/main.cpp.o -c /tmp/tmp.Lm3sxE3V3A/src/test/main.cpp
+	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/testa.dir/main.cpp.o -c /tmp/tmp.Lm3sxE3V3A/src/test/main.cpp
 
 src/test/CMakeFiles/testa.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/testa.dir/main.cpp.i"
-	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/test && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.Lm3sxE3V3A/src/test/main.cpp > CMakeFiles/testa.dir/main.cpp.i
+	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.Lm3sxE3V3A/src/test/main.cpp > CMakeFiles/testa.dir/main.cpp.i
 
 src/test/CMakeFiles/testa.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/testa.dir/main.cpp.s"
-	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/test && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.Lm3sxE3V3A/src/test/main.cpp -o CMakeFiles/testa.dir/main.cpp.s
+	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.Lm3sxE3V3A/src/test/main.cpp -o CMakeFiles/testa.dir/main.cpp.s
 
 src/test/CMakeFiles/testa.dir/main.cpp.o.requires:
 

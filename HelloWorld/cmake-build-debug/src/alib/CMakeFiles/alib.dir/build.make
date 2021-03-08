@@ -60,15 +60,15 @@ include src/alib/CMakeFiles/alib.dir/flags.make
 src/alib/CMakeFiles/alib.dir/alib.cpp.o: src/alib/CMakeFiles/alib.dir/flags.make
 src/alib/CMakeFiles/alib.dir/alib.cpp.o: ../src/alib/alib.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.Lm3sxE3V3A/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/alib/CMakeFiles/alib.dir/alib.cpp.o"
-	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/alib && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/alib.dir/alib.cpp.o -c /tmp/tmp.Lm3sxE3V3A/src/alib/alib.cpp
+	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/alib && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/alib.dir/alib.cpp.o -c /tmp/tmp.Lm3sxE3V3A/src/alib/alib.cpp
 
 src/alib/CMakeFiles/alib.dir/alib.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/alib.dir/alib.cpp.i"
-	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/alib && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.Lm3sxE3V3A/src/alib/alib.cpp > CMakeFiles/alib.dir/alib.cpp.i
+	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/alib && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.Lm3sxE3V3A/src/alib/alib.cpp > CMakeFiles/alib.dir/alib.cpp.i
 
 src/alib/CMakeFiles/alib.dir/alib.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/alib.dir/alib.cpp.s"
-	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/alib && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.Lm3sxE3V3A/src/alib/alib.cpp -o CMakeFiles/alib.dir/alib.cpp.s
+	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/alib && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.Lm3sxE3V3A/src/alib/alib.cpp -o CMakeFiles/alib.dir/alib.cpp.s
 
 src/alib/CMakeFiles/alib.dir/alib.cpp.o.requires:
 

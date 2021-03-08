@@ -1,1 +1,1 @@
-/usr/bin/g++  -g  -rdynamic CMakeFiles/testa.dir/main.cpp.o  -o testa  -L/tmp/tmp.Lm3sxE3V3A/src/test/../../lib/lib -Wl,-rpath,/tmp/tmp.Lm3sxE3V3A/src/test/../../lib/lib:/tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/blib ../alib/libalib.a ../blib/libblib.so -lmlib -lnlib 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/testa.dir/main.cpp.o  -o testa  -L/tmp/tmp.Lm3sxE3V3A/src/test/../../lib/lib -Wl,-rpath,/tmp/tmp.Lm3sxE3V3A/src/test/../../lib/lib:/tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/blib ../alib/libalib.a ../blib/libblib.so -lmlib -lnlib 

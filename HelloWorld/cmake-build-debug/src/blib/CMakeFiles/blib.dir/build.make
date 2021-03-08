@@ -60,15 +60,15 @@ include src/blib/CMakeFiles/blib.dir/flags.make
 src/blib/CMakeFiles/blib.dir/blib.cpp.o: src/blib/CMakeFiles/blib.dir/flags.make
 src/blib/CMakeFiles/blib.dir/blib.cpp.o: ../src/blib/blib.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.Lm3sxE3V3A/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/blib/CMakeFiles/blib.dir/blib.cpp.o"
-	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/blib && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/blib.dir/blib.cpp.o -c /tmp/tmp.Lm3sxE3V3A/src/blib/blib.cpp
+	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/blib && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/blib.dir/blib.cpp.o -c /tmp/tmp.Lm3sxE3V3A/src/blib/blib.cpp
 
 src/blib/CMakeFiles/blib.dir/blib.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/blib.dir/blib.cpp.i"
-	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/blib && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.Lm3sxE3V3A/src/blib/blib.cpp > CMakeFiles/blib.dir/blib.cpp.i
+	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/blib && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.Lm3sxE3V3A/src/blib/blib.cpp > CMakeFiles/blib.dir/blib.cpp.i
 
 src/blib/CMakeFiles/blib.dir/blib.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/blib.dir/blib.cpp.s"
-	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/blib && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.Lm3sxE3V3A/src/blib/blib.cpp -o CMakeFiles/blib.dir/blib.cpp.s
+	cd /tmp/tmp.Lm3sxE3V3A/cmake-build-debug/src/blib && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.Lm3sxE3V3A/src/blib/blib.cpp -o CMakeFiles/blib.dir/blib.cpp.s
 
 src/blib/CMakeFiles/blib.dir/blib.cpp.o.requires:
 
